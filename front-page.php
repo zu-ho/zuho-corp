@@ -1,0 +1,8 @@
+<?php
+if (condition) {
+  // code...
+}
+
+
+
+ ?>
